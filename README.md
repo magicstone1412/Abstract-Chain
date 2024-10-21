@@ -15,6 +15,8 @@
 [ -f "abstract.sh" ] && rm abstract.sh; wget -q -O abstract.sh https://raw.githubusercontent.com/zunxbt/Abstract-Chain/refs/heads/main/abstract.sh && chmod +x abstract.sh && ./abstract.sh
 ```
 
+https://github.com/user-attachments/assets/2379636e-67b9-469e-8754-fec33363d6c4
+
 ## Important Info
 - During running this script, it will ask something like this
 ```bash
