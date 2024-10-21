@@ -25,8 +25,8 @@
   Create an empty hardhat.config.js
   Quit
 ```
-- Here you must need to choose 2nd option : `Create a TypeScript project`
-- And then keep pressing `enter` for 4 times
+- Here you must need to choose 2nd option : `Create a TypeScript project` by using `W` `A` `S` `D` key
+- And then keep pressing `enter` for 3 times
 
 ## Troubleshooting
 - If you r facing issues like `curl command not found` then use this command to install curl and then run the above installation command that starts with curl
