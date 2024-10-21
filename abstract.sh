@@ -1,5 +1,8 @@
 #!/bin/bash
 
+curl -s https://raw.githubusercontent.com/zunxbt/logo/main/logo.sh | bash
+sleep 3
+
 BOLD=$(tput bold)
 NORMAL=$(tput sgr0)
 PINK='\033[1;35m'
